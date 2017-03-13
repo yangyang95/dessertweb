@@ -1,0 +1,79 @@
+#btnsite{
+position: absolute;
+top: 40px;
+right: 60px;
+}
+
+.slecetbtns{
+list-style-type: none;
+display: inline;
+padding: 25px;
+border:none;
+}
+
+li a{
+	font-size:18px;
+	color:gray;
+	background-color:white;
+	text-decoration:none;
+}
+
+li a:hover {
+    color: #111;
+}
+
+.container {
+	position: relative;
+}
+
+.container h1 {
+	font-size: 35px; 
+}
+
+.container p {
+	font-size: 30px; 
+	font-family: "adobe-song-std";
+	position: absolute;
+	left: 180px;
+	top: 200px;
+}
+
+.menu_left_content {
+	width: 600px;
+	position: absolute;
+	top: 150px;
+}
+
+#mango_parfait {
+	font-size: 35px;
+	width: 100%;
+	position: absolute;
+	left: 180px;
+	top: 100px;
+}
+
+#cheesecake_img {
+	-ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+	position: absolute;
+	left: 260px;
+	top: 300px;
+}
+
+#parfait_img {
+	position: absolute;
+	top: 120px;
+  	right: 250px;
+}
+
+.yellow_block {
+	width: 600px;
+	height: 500px;
+	z-index: -1;
+	border: 0px;
+	background-color:rgb(255,245,170);
+	position: absolute;
+	top: 200px;
+	right: 0px;
+}
