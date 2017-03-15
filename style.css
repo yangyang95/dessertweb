@@ -22,6 +22,10 @@ li a{
 	text-decoration:none;
 }
 
+#active a{
+	color: black;
+}
+
 li a:hover {
     color: #111;
 }
