@@ -1,27 +1,33 @@
-#btnsite{
-position: absolute;
-top: 55px;
-right: 60px;
+#btnsite {
+    position: absolute;
+    top: 55px;
+    right: 80px;
 }
 
-.slecetbtns{
-list-style-type: none;
-display: inline;
-padding: 25px;
-border:none;
+.slecetbtns {
+    list-style-type: none;
+    display: inline;
+    padding: 50px;
+    border: none;
 }
 
-li a{
-	font-size:15px;
-	color:gray;
-	background-color:white;
-	text-decoration:none;
+li a {
+    font-size: 1.5vh;
+    color: gray;
+    background-color: white;
+    text-decoration: none;
 }
 
-#active a{
-	color: black;
+#active a {
+    color: black;
 }
 
 li a:hover {
     color: #111;
+}
+
+.yellow_block {
+    z-index: -1;
+    border: 0px;
+    background-color: rgb(255, 242, 159);
 }

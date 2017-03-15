@@ -1,90 +1,86 @@
 section {
-	display: block;
+    display: block;
 }
 
 .container {
-	position: relative;
+    position: relative;
 }
 
 .container h1 {
-	font-size: 35px; 
+    font-size: 35px;
 }
 
 .container p {
-	font-size: 30px; 
-	font-family: "adobe-song-std";
-	position: absolute;
-	left: 180px;
-	top: 200px;
+    font-size: 30px;
+    font-family: "adobe-song-std";
+    position: absolute;
+    left: 180px;
+    top: 200px;
 }
 
 .menu_left_content {
-	width: 600px;
-	position: absolute;
-	top: 150px;
+    width: 600px;
+    position: absolute;
+    top: 150px;
 }
 
 #mango_parfait {
-	font-size: 35px;
-	width: 100%;
-	position: absolute;
-	left: 180px;
-	top: 100px;
+    font-size: 35px;
+    width: 100%;
+    position: absolute;
+    left: 180px;
+    top: 100px;
 }
 
 #cheesecake_img {
-	-ms-transform: rotate(90deg); /* IE 9 */
-    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    -ms-transform: rotate(90deg);
+    /* IE 9 */
+    -webkit-transform: rotate(90deg);
+    /* Chrome, Safari, Opera */
     transform: rotate(90deg);
-	position: absolute;
-	left: 260px;
-	top: 300px;
+    position: absolute;
+    left: 260px;
+    top: 300px;
 }
 
 #parfait_img {
-	position: absolute;
-	top: 120px;
-  	right: 250px;
-}
-
-.yellow_block {
-	z-index: -1;
-	border: 0px;
-	background-color:rgb(255,242,159);
+    position: absolute;
+    top: 120px;
+    right: 250px;
 }
 
 .yellow_block.block1 {
-	width: 500px;
-	height: 500px;
-	position: absolute;
-	top: 170px;
-	right: 180px;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 170px;
+    right: 180px;
 }
 
 .yellow_block.block2 {
-	width: 100%;
-	height: 750px;
-	position: absolute;
-	top: 1200px;
+    width: 100%;
+    height: 750px;
+    position: absolute;
+    top: 1200px;
 }
 
 #civil_war_cake_img {
-	position: absolute;
-	top: 1000px;
-	left: 180px;
-	margin-bottom: 100px;
+    position: absolute;
+    top: 1000px;
+    left: 180px;
+    margin-bottom: 100px;
 }
 
 #civil_war_cake {
-	font-size: 25px;
-	position: absolute;
-	top: 1400px;
-	left: 900px; 
+    font-size: 25px;
+    position: absolute;
+    top: 1400px;
+    left: 900px;
 }
 
 #war_cake_intro {
-	width: 600px;
-	position: absolute;
-	top: 1400px;
-	left: 720px;
+    width: 600px;
+    position: absolute;
+    top: 1400px;
+    left: 720px;
 }

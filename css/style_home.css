@@ -1,0 +1,214 @@
+div.full {
+    float: left;
+    width: auto;
+}
+
+div.top {
+    width: 100%;
+    height: 12%;
+}
+
+div.buttom {
+    width: 100%;
+    height: 10%;
+}
+
+#Dessert {
+    float: left;
+    margin-left: 5%;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+#desserttext {
+    font-family: "adobe-song-std";
+    float: left;
+    margin-top: 18%;
+    height: 65%;
+    width: 100%;
+    font-size: 8vh;
+}
+
+.dessert {
+    width: 400px;
+    height: 250px;
+    float: left;
+    margin-left: 5%;
+    border-style: solid;
+    border-top-style: none;
+    position: absolute;
+    top: 95px;
+    left: 10px;
+}
+
+.strawberry {
+    width: 50%;
+    height: 85%;
+    float: right;
+    margin-right: 5%;
+    margin-top: 10%;
+    position: absolute;
+    top: 100px;
+    left: 650px;
+}
+
+#strawberrypic {
+    height: 100%;
+    width: 100%;
+}
+
+#topborder {
+    float: right;
+    width: 180px;
+    border: none;
+    border-top-style: solid;
+}
+
+#cake {
+    margin-right: 20%;
+    margin-left: 5%;
+    margin-top: 13%;
+    height: 25%;
+}
+
+#caketext {
+    font-family: "adobe-song-std";
+    font-size: 2.5vh;
+    text-align: left;
+    margin-left: 2%;
+}
+
+#icecream {
+    float: left;
+    width: 45%;
+    height: 55%;
+    position: absolute;
+    left: 20px;
+    top: 110px;
+}
+
+#icecreampic {
+    margin-left: -18%;
+    width: 140%;
+    height: 100%;
+}
+
+#milk {
+    margin-right: 18%;
+    margin-top: 8%;
+    float: right;
+    width: 35%;
+    height: 45%;
+    position: absolute;
+    left: 220px;
+    top: 100px;
+}
+
+#milktext {
+    font-family: "adobe-song-std";
+    text-align: left;
+    font-size: 2.5vh;
+    margin-top: 10%;
+}
+
+#fintech {
+    float: left;
+    margin-top: 2%;
+    margin-left: 5%;
+    height: 8%;
+    width: 30%;
+    position: absolute;
+    top: 350px;
+}
+
+#fintechtext {
+    font-family: "adobe-song-std";
+    float: left;
+    margin-top: 0%;
+    text-align: left;
+    font-size: 3.5vh;
+}
+
+#mobile {
+    float: left;
+    margin-left: 5%;
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    top: 400px;
+}
+
+#mobilepic {
+    float: left;
+    margin-left: -20%;
+    margin-top: -10%;
+    width: 130%;
+    height: 110%;
+}
+
+#mobiletext {
+    font-family: "adobe-song-std";
+    float: left;
+    margin-top: -20%;
+    width: 100%;
+    height: 30%;
+    font-size: 2.5vh;
+}
+
+#change {
+    float: left;
+    width: 40%;
+    height: 60%;
+    margin-left: 3%;
+    position: absolute;
+    top: 520px;
+    left: 300px;
+}
+
+#changepic {
+    float: left;
+    margin-left: -10%;
+    margin-top: -25%;
+    width: 120%;
+    height: 120%;
+}
+
+#changetext {
+    font-family: "adobe-song-std";
+    width: 80%;
+    height: 60%;
+    font-size: 2.5vh;
+    position: absolute;
+    top: -20px;
+    left: 10px;
+}
+
+#shop {
+    float: right;
+    margin-right: 20%;
+    width: 10%;
+    height: 10%;
+}
+
+#shopbtn {
+    font-family: "adobe-song-std";
+    background-color: #BDBD00;
+    border: none;
+    height: 60px;
+    width: 150px;
+    color: white;
+    font-size: 2.5vh;
+    position: absolute;
+    top: 600px;
+    left: 200px;
+}
+
+.yellow_block.block1 {
+    width: 99%;
+    height: 600px;
+    position: absolute;
+    top: 95px;
+}
