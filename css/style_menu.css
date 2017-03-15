@@ -2,34 +2,6 @@ section {
 	display: block;
 }
 
-#btnsite{
-position: absolute;
-top: 40px;
-right: 60px;
-}
-
-.slecetbtns{
-list-style-type: none;
-display: inline;
-padding: 25px;
-border:none;
-}
-
-li a{
-	font-size:18px;
-	color:gray;
-	background-color:white;
-	text-decoration:none;
-}
-
-#active a{
-	color: black;
-}
-
-li a:hover {
-    color: #111;
-}
-
 .container {
 	position: relative;
 }
