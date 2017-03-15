@@ -54,11 +54,11 @@ section {
 }
 
 .yellow_block.block1 {
-	width: 600px;
+	width: 500px;
 	height: 500px;
 	position: absolute;
-	top: 200px;
-	right: 0px;
+	top: 170px;
+	right: 180px;
 }
 
 .yellow_block.block2 {

@@ -1,6 +1,6 @@
 #btnsite{
 position: absolute;
-top: 40px;
+top: 55px;
 right: 60px;
 }
 
@@ -12,7 +12,7 @@ border:none;
 }
 
 li a{
-	font-size:18px;
+	font-size:15px;
 	color:gray;
 	background-color:white;
 	text-decoration:none;
