@@ -1,0 +1,118 @@
+#Dessert {
+    float: left;
+    margin-left: 5%;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+#desserttext {
+    font-family: "adobe-song-std";
+    float: left;
+    margin-top: 18%;
+    height: 65%;
+    width: 100%;
+    font-size: 8vh;
+}
+
+.dessert {
+    width: 400px;
+    height: 250px;
+    float: left;
+    margin-left: 5%;
+    border-style: solid;
+    border-top-style: none;
+    position: absolute;
+    top: 95px;
+    left: 10px;
+}
+
+#topborder {
+    float: right;
+    width: 180px;
+    border: none;
+    border-top-style: solid;
+}
+
+#cake {
+    margin-right: 20%;
+    margin-left: 5%;
+    margin-top: 13%;
+    height: 25%;
+}
+
+#caketext {
+    font-family: "adobe-song-std";
+    font-size: 2.5vh;
+    text-align: left;
+    margin-left: 2%;
+}
+
+#icecream {
+    float: left;
+    position: absolute;
+    left: 20px;
+    top: 40px;
+}
+
+#icecreampic {
+    margin-left: -18%;
+    width: 140%;
+    height: 100%;
+}
+
+#milk {
+    margin-right: 18%;
+    margin-top: 8%;
+    float: right;
+    width: 35%;
+    height: 45%;
+    position: absolute;
+    left: 220px;
+    top: 100px;
+}
+
+#milktext {
+    font-family: "adobe-song-std";
+    text-align: left;
+    font-size: 2.5vh;
+    margin-top: 10%;
+}
+
+.contact {
+    position: absolute;
+    top: 200px;
+    left: 660px;
+}
+
+p {
+    font-size: 25px;
+    font-family: "adobe-song-std";
+}
+
+#company {
+    position: absolute;
+    top: 213px;
+    left: 850px;
+}
+
+#hours {
+    position: absolute;
+    top: 298px;
+    left: 850px;
+}
+
+#information {
+    position: absolute;
+    top: 385px;
+    left: 850px;
+}
+
+.yellow_block.block1 {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 95px;
+}
