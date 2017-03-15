@@ -1,3 +1,7 @@
+section {
+	display: block;
+}
+
 #btnsite{
 position: absolute;
 top: 40px;
@@ -68,12 +72,43 @@ li a:hover {
 }
 
 .yellow_block {
-	width: 600px;
-	height: 500px;
 	z-index: -1;
 	border: 0px;
 	background-color:rgb(255,242,159);
+}
+
+.yellow_block.block1 {
+	width: 600px;
+	height: 500px;
 	position: absolute;
 	top: 200px;
 	right: 0px;
+}
+
+.yellow_block.block2 {
+	width: 100%;
+	height: 750px;
+	position: absolute;
+	top: 1200px;
+}
+
+#civil_war_cake_img {
+	position: absolute;
+	top: 1000px;
+	left: 180px;
+	margin-bottom: 100px;
+}
+
+#civil_war_cake {
+	font-size: 25px;
+	position: absolute;
+	top: 1400px;
+	left: 900px; 
+}
+
+#war_cake_intro {
+	width: 600px;
+	position: absolute;
+	top: 1400px;
+	left: 720px;
 }
